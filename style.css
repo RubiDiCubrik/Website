@@ -1,0 +1,108 @@
+/* body{
+    background-color: #5e81ac;
+} */
+
+body{
+	font-family:'PT Mono', monospace;
+    color: #f4f4f4;
+    background-color: /*#848486*/ #262626;
+}
+
+/* .window {
+    width: 915px;
+    height: 790px;
+    top: 50%;
+    text-align: center;
+    background-color: #262626;
+} */
+
+/******************** NAVICATION BAR ********************/
+.nav ul {
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+}
+.nav li {
+    font-weight: bold; /* da sistemare con la formattazione del terminale */
+    display: inline;
+    float: right;
+} 
+
+.nav li button {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.nav a:link, a:visited, a:hover, a:active{ 
+    text-decoration: none; 
+    color: inherit;
+}
+
+.nav span {
+    color: #c34113;
+}
+
+/******************** LOGO ASCII ARTS ********************/
+.logo {
+    position: relative;
+    height: 300px;
+    /* width: 100%; */
+}
+
+.logo pre{
+    margin: 0;
+    position:absolute;
+    top: 50%;
+    /* -ms-transform: translateY(-50%);
+    transform: translateY(-50%); */
+
+    text-align: center;
+	/* top:0;
+	left:0; */
+	width:100%;
+	height:120px;
+	/* padding:1rem; */
+    /* padding: 10px; */
+	resize:none;
+	border:none;
+}
+
+/******************** WRITEUPS ****************/
+
+.writeups {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/******************** responsive ****************/
+
+@media (min-width: 850px) { /*435*/
+    .logo .mobile {
+        display: none;
+    } 
+}
+
+/* @media (min-width:435px) { 
+
+} */
+
+@media (max-width: 850px) {
+    .logo .desktop {
+        display: none;
+    }
+}
+/******************** FOOTER ********************/
+
+.footer {
+    text-align: center;
+}
+
+.footer a:hover {
+    color: #ff875b;
+}
