@@ -103,6 +103,10 @@ body{
     text-align: center;
 }
 
+.footer a {
+    color: #c34113;
+}
+
 .footer a:hover {
     color: #ff875b;
 }
