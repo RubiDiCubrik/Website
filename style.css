@@ -5,7 +5,7 @@
 body{
 	font-family:'PT Mono', monospace;
     color: #f4f4f4;
-    background-color: /*#848486*/ #262626;
+    background-color: /*#848486*/ #343434;
 }
 
 /* .window {
@@ -51,14 +51,14 @@ body{
 /******************** LOGO ASCII ARTS ********************/
 .logo {
     position: relative;
-    height: 300px;
+    /* height: 300px; */
     /* width: 100%; */
 }
 
 .logo pre{
-    margin: 0;
-    position:absolute;
-    top: 50%;
+    padding-top: 75px;
+    /* position:absolute;
+    top: 50%; */
     /* -ms-transform: translateY(-50%);
     transform: translateY(-50%); */
 
@@ -97,10 +97,42 @@ body{
         display: none;
     }
 }
+
+@media (min-width:1320px) {
+    .window {
+        width: 1212px;
+        /* height: 815px; */
+        background-color: #262626;
+        margin:auto;
+        text-align: center;
+        border-radius: 25px;
+        box-shadow: -1px 5px 5px hsla(0, 0%, 0%, 0.15)
+        /* box-shadow: 2px 2px 10px 5px 10px #656262; */
+    }
+}
+
+@media (max-width:1320px) {
+    .window {
+        width: 100%;
+        height: 100%;
+    }
+    body {
+        background-color: #262626;
+    }
+}
 /******************** FOOTER ********************/
 
 .footer {
     text-align: center;
+    padding-bottom: 50px;
+}
+
+.divider hr {
+    box-sizing: content-box;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #f4f4f4;
 }
 
 .footer a {
