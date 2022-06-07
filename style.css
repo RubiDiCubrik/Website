@@ -19,8 +19,9 @@ body{
 /******************** NAVICATION BAR ********************/
 .nav ul {
     list-style: none;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-top:   10px;
+    padding-left:  20px;
+    padding-right: 20px;
     overflow: hidden;
 }
 .nav li {
@@ -82,7 +83,7 @@ body{
 
 /******************** responsive ****************/
 
-/** DESKTOP **/
+/********************** DESKTOP *****************/
 
 @media (min-width: 851px) { /* DISPLAY DESKTOP LOGO */
     .logo .mobile {
@@ -107,7 +108,8 @@ body{
     }
 }
 
-/** MOBILE **/
+/************************ MOBILE ***************/
+
 @media (max-width: 850px) { /* DISPLAY MOBILE LOGO */
     .logo .desktop {
         display: none;
@@ -117,8 +119,6 @@ body{
         width: 146.5px;
     }
 }
-
-
 
 @media (max-width:1320px) { /* HIDE DESKTOP FLOATING WINDOW */
     .window {
