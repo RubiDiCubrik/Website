@@ -84,7 +84,7 @@ body{
 
 /** DESKTOP **/
 
-@media (min-width: 850px) { /* DISPLAY DESKTOP LOGO */
+@media (min-width: 851px) { /* DISPLAY DESKTOP LOGO */
     .logo .mobile {
         display: none;
     } 
@@ -111,6 +111,10 @@ body{
 @media (max-width: 850px) { /* DISPLAY MOBILE LOGO */
     .logo .desktop {
         display: none;
+    }
+    /* change hr size */
+    .divider hr {
+        width: 146.5px;
     }
 }
 
