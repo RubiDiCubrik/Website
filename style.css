@@ -5,7 +5,7 @@
 body{
 	font-family:'PT Mono', monospace;
     color: #f4f4f4;
-    background-color: /*#848486*/ #343434;
+    background-color: #363636/*#848486 #343434*/;
 }
 
 /* .window {
@@ -88,7 +88,21 @@ body{
 @media (min-width: 851px) { /* DISPLAY DESKTOP LOGO */
     .logo .mobile {
         display: none;
-    } 
+    }
+    .container{ /* serve per centrare il floating window */
+        height: 100vh;
+        width: 100vw;
+    
+        max-height: 800px;
+        max-width: 1280px;
+        min-height: 600px;
+        min-width: 1000px;
+    
+        display: flex;
+        align-items: center;
+        
+        margin: 0 auto;
+    }
 }
 
 /* @media (min-width:435px) { per il responsive del footer

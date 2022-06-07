@@ -8,54 +8,61 @@
     <title>Rubi di Cubrik</title>
 </head>
 <body>
-    <div class = "window"> <!--1212 x 815 -->
-        <!--inline navbar-->
-        <div class = "nav">
-            <ul>
-                <li style = "float:left"> 
-                    > <a class = "nav" href="index.html" > 
-                        <span>[</span> Rubi di Cubrik <span>]</span>
-                    </a> 
-                </li>
-                
-                <li> <button onclick="getWriteUps()"> writeups </button> </li>
-            </ul>
-        </div>
+    <div class="container">
+
+        <div class = "window"> <!--1212 x 815 -->
+            <!--inline navbar-->
+            <div class = "nav">
+                <ul>
+                    <li style = "float:left"> 
+                        > <a class = "nav" href="index.html" > 
+                            <span>[</span> Rubi di Cubrik <span>]</span>
+                        </a> 
+                    </li>
+                    
+                    <li> <button onclick="getWriteUps()"> writeups </button> </li>
+                </ul>
+            </div>
 
 
-        <!--logo in ascii arts -->
-        <div class = "logo">
-            <!-- RUBI DI CUBRIK ~ LOGO -->
-            <pre class = "desktop" disabled>
- /$$$$$$$            /$$       /$$             /$$ /$$        /$$$$$$            /$$                 /$$ /$$      
-| $$__  $$          | $$      |__/            | $$|__/       /$$__  $$          | $$                |__/| $$      
-| $$  \ $$ /$$   /$$| $$$$$$$  /$$        /$$$$$$$ /$$      | $$  \__/ /$$   /$$| $$$$$$$   /$$$$$$  /$$| $$   /$$
-| $$$$$$$/| $$  | $$| $$__  $$| $$       /$$__  $$| $$      | $$      | $$  | $$| $$__  $$ /$$__  $$| $$| $$  /$$/
-| $$__  $$| $$  | $$| $$  \ $$| $$      | $$  | $$| $$      | $$      | $$  | $$| $$  \ $$| $$  \__/| $$| $$$$$$/ 
-| $$  \ $$| $$  | $$| $$  | $$| $$      | $$  | $$| $$      | $$    $$| $$  | $$| $$  | $$| $$      | $$| $$_  $$ 
-| $$  | $$|  $$$$$$/| $$$$$$$/| $$      |  $$$$$$$| $$      |  $$$$$$/|  $$$$$$/| $$$$$$$/| $$      | $$| $$ \  $$
-|__/  |__/ \______/ |_______/ |__/       \_______/|__/       \______/  \______/ |_______/ |__/      |__/|__/  \__/
-            </pre>
-            <pre class="mobile" disabled>
- /$$$$$$$        /$$  /$$$$$$ 
-| $$__  $$      | $$ /$$__  $$
-| $$  \ $$  /$$$$$$$| $$  \__/
-| $$$$$$$/ /$$__  $$| $$      
-| $$__  $$| $$  | $$| $$      
-| $$  \ $$| $$  | $$| $$    $$
-| $$  | $$|  $$$$$$$|  $$$$$$/
-|__/  |__/ \_______/ \______/ 
-            </pre> 
-        </div>
-        <div class = "divider"><hr width="50%"></div>
+            <!--logo in ascii arts -->
+            <div class = "logo">
+                <!-- RUBI DI CUBRIK ~ LOGO -->
+                <pre class = "desktop" disabled>
+    /$$$$$$$            /$$       /$$             /$$ /$$        /$$$$$$            /$$                 /$$ /$$      
+    | $$__  $$          | $$      |__/            | $$|__/       /$$__  $$          | $$                |__/| $$      
+    | $$  \ $$ /$$   /$$| $$$$$$$  /$$        /$$$$$$$ /$$      | $$  \__/ /$$   /$$| $$$$$$$   /$$$$$$  /$$| $$   /$$
+    | $$$$$$$/| $$  | $$| $$__  $$| $$       /$$__  $$| $$      | $$      | $$  | $$| $$__  $$ /$$__  $$| $$| $$  /$$/
+    | $$__  $$| $$  | $$| $$  \ $$| $$      | $$  | $$| $$      | $$      | $$  | $$| $$  \ $$| $$  \__/| $$| $$$$$$/ 
+    | $$  \ $$| $$  | $$| $$  | $$| $$      | $$  | $$| $$      | $$    $$| $$  | $$| $$  | $$| $$      | $$| $$_  $$ 
+    | $$  | $$|  $$$$$$/| $$$$$$$/| $$      |  $$$$$$$| $$      |  $$$$$$/|  $$$$$$/| $$$$$$$/| $$      | $$| $$ \  $$
+    |__/  |__/ \______/ |_______/ |__/       \_______/|__/       \______/  \______/ |_______/ |__/      |__/|__/  \__/
+                </pre>
+                <pre class="mobile" disabled>
+    /$$$$$$$        /$$  /$$$$$$ 
+    | $$__  $$      | $$ /$$__  $$
+    | $$  \ $$  /$$$$$$$| $$  \__/
+    | $$$$$$$/ /$$__  $$| $$      
+    | $$__  $$| $$  | $$| $$      
+    | $$  \ $$| $$  | $$| $$    $$
+    | $$  | $$|  $$$$$$$|  $$$$$$/
+    |__/  |__/ \_______/ \______/ 
+                </pre> 
+            </div>
+            <div class = "divider"><hr width="50%"></div>
 
-        <!-- Writeups -->
-        <div class="writeups"></div>
+            <!-- Members -->
+            <div class = "members">
+                <!-- TODO: aggiungere le profile cards con hover effect -->
+            </div>
 
-        <!--footer con i contatti-->
-        <div class = "footer">
-             ~/<i>ContactUs</i>/<i>Email</i>$ <a href = "mailto:info@rubidicubrik.it">info@rubidicubrik.it</a>
-            
+            <!-- Writeups -->
+            <div class="writeups"></div>
+
+            <!--footer con i contatti-->
+            <div class = "footer">
+                ~/<i>ContactUs</i>/<i>Email</i>$ <a href = "mailto:info@rubidicubrik.it">info@rubidicubrik.it</a>
+            </div>
         </div>
     </div>
     <script type="text/javascript" src="main.js"></script>
