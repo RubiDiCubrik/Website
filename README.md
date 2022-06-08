@@ -11,7 +11,7 @@
 *   [CTFTime](https://ctftime.org/team/168156)
 
 ## Members
--   **`0xAlessandro`** Specialized in ***{`None`, `None`}***
+-   **`0xAlessandro`** Specialized in ***{`Web`, `Binary`}***
 *   **`Argh`** Specialized in ***{`Web`, `Osint`}***
 -   **`Fabb`** Specialized in ***{`Misc`, `Crypto`}***
 *   **`Fanta`** Specialized in ***{`Misc`, `Crypto`}***
