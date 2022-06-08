@@ -4,7 +4,7 @@
 
 ##
 
-### Social.
+## Social.
 *   [Website](http://rubidicubrik.it)
 *   [Github](https://github.com/RubiDiCubrik)
 *   [CTFTime](https://ctftime.org/team/168156)
