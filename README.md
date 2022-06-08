@@ -2,9 +2,9 @@
 
 # Rubi Di Cubrik
 
-> Social
->>>   [Website](http://rubidicubrik.it)
->>>   [CTFTime](https://ctftime.org/team/168156)
->>>   [Github](https://github.com/RubiDiCubrik)
+>>> Social
+>   [Website](http://rubidicubrik.it)
+>   [CTFTime](https://ctftime.org/team/168156)
+>   [Github](https://github.com/RubiDiCubrik)
 
 ## 
