@@ -14,7 +14,7 @@
 -   **`0xAlessandro`** Specialized in ***{`None`, `None`}***
 *   **`Argh`** Specialized in ***{`Web`, `Osint`}***
 -   **`Fabb`** Specialized in ***{`Crypto`, `None`}***
-*   **`Fanta`** Specialized in ***{`None`, `None`}***
+*   **`Fanta`** Specialized in ***{`Misc`, `Crypto`}***
 -   **`Giak`** Specialized in ***{`Pwn`, `Scripting`}***
 *   **`Irvanni`** Specialized in ***{`Misc`, `Network`}***
 -   **`Mufasa`** Specialized in ***{`None`, `None`}***
