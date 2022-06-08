@@ -2,7 +2,7 @@
 
 # Rubi Di Cubrik
 
-> RDC{Rub1_D1_Cubr1k}
+> **RDC{Rub1_D1_Cubr1k}**
 
 ##
 
