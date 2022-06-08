@@ -6,8 +6,18 @@
 
 ##
 
-## Links.
+## Links
 *   [Website](http://rubidicubrik.it)
-*   [Github](https://github.com/RubiDiCubrik)
 *   [CTFTime](https://ctftime.org/team/168156)
 
+## Members
+-   **`0xAlessandro`** Specialized in ***{`None`, `None`}***
+*   **`Argh`** Specialized in ***{`None`, `None`}***
+-   **`Fabb`** Specialized in ***{`Crypto`, `None`}***
+*   **`Fanta`** Specialized in ***{`None`, `None`}***
+-   **`Giak`** Specialized in ***{`Pwn`, `Scripting`}***
+*   **`Irvanni`** Specialized in ***{`Misc`, `Network`}***
+-   **`Mufasa`** Specialized in ***{`None`, `None`}***
+*   **`Ricky`** Specialized in ***{`None`, `None`}***
+-   **`Shiscat`** Specialized in ***{`Web`, `None`}***
+*   **`U_Ignax`** Specialized in ***{`None`, `None`}***
