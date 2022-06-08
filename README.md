@@ -12,7 +12,7 @@
 
 ## Members
 -   **`0xAlessandro`** Specialized in ***{`None`, `None`}***
-*   **`Argh`** Specialized in ***{`None`, `None`}***
+*   **`Argh`** Specialized in ***{`Web`, `None`}***
 -   **`Fabb`** Specialized in ***{`Crypto`, `None`}***
 *   **`Fanta`** Specialized in ***{`None`, `None`}***
 -   **`Giak`** Specialized in ***{`Pwn`, `Scripting`}***
@@ -21,3 +21,7 @@
 *   **`Ricky`** Specialized in ***{`None`, `None`}***
 -   **`Shiscat`** Specialized in ***{`Web`, `None`}***
 *   **`U_Ignax`** Specialized in ***{`None`, `None`}***
+
+## Support
+
+>   Support email: info@rubidicubrik.it
