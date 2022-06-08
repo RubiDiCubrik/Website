@@ -2,7 +2,7 @@
 
 # Rubi Di Cubrik
 
-> This is a ctf team
+> RDC{Rub1_D1_Cubr1k}
 
 ##
 
