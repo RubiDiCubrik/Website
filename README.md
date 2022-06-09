@@ -20,7 +20,7 @@
 -   **`Mufasa`** Specialized in ***{`None`, `None`}***
 *   **`Ricky`** Specialized in ***{`Crypto`, `Stegonagraphy`}***
 -   **`Shiscat`** Specialized in ***{`Web`, `Misc`}***
-*   **`U_Ignax`** Specialized in ***{`Scripting`, `None`}***
+*   **`U_Ignax`** Specialized in ***{`Scripting`, `Web`}***
 
 ## Support
 
