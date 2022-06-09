@@ -12,7 +12,7 @@
 
 ## Members
 -   **`0xAlessandro`** Specialized in ***{`Web`, `Binary`}***
-*   **`Argh`** Specialized in ***{`Web`, `Osint`}***
+*   **`Argh`** Specialized in ***{`Misc`, `Web`}***
 -   **`Fabb`** Specialized in ***{`Misc`, `Crypto`}***
 *   **`Fanta`** Specialized in ***{`Misc`, `Crypto`}***
 -   **`Giak`** Specialized in ***{`Pwn`, `Scripting`}***
