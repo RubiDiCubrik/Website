@@ -18,7 +18,7 @@
 -   **`Giak`** Specialized in ***{`Pwn`, `Scripting`}***
 *   **`Irvanni`** Specialized in ***{`Misc`, `Network`}***
 -   **`Mufasa`** Specialized in ***{`None`, `None`}***
-*   **`Ricky`** Specialized in ***{`None`, `None`}***
+*   **`Ricky`** Specialized in ***{`Crypto`, `Stegonagraphy`}***
 -   **`Shiscat`** Specialized in ***{`Web`, `Misc`}***
 *   **`U_Ignax`** Specialized in ***{`Scripting`, `None`}***
 
