@@ -20,7 +20,7 @@
 -   **`Mufasa`** Specialized in ***{`None`, `None`}***
 *   **`Ricky`** Specialized in ***{`None`, `None`}***
 -   **`Shiscat`** Specialized in ***{`Web`, `Misc`}***
-*   **`U_Ignax`** Specialized in ***{`None`, `None`}***
+*   **`U_Ignax`** Specialized in ***{`Scripting`, `None`}***
 
 ## Support
 
