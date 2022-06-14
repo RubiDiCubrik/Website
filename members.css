@@ -1,0 +1,103 @@
+/** TEAM'S MEMBERS **/
+
+.cardArgh{
+    background: url('https://cdn.discordapp.com/avatars/465501045007712257/67fd06b66887805b1a80a65ff5f4a02b.webp?size=1024') center center no-repeat;
+    background-size: 200px;
+  }
+  
+  .cardArgh:hover{
+      background: url('https://cdn.discordapp.com/avatars/465501045007712257/67fd06b66887805b1a80a65ff5f4a02b.webp?size=1024') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardIrvanni{
+    background: url('https://cdn.discordapp.com/avatars/536798044939878403/4811e077272dea2b364f5bf91ffe01c6.webp?size=1024') center center no-repeat;
+    background-size: 200px;
+  }
+  
+  .cardIrvanni:hover{
+      background: url('https://cdn.discordapp.com/avatars/536798044939878403/4811e077272dea2b364f5bf91ffe01c6.webp?size=1024') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  
+  .cardShishcat{
+    background: url('https://cdn.discordapp.com/avatars/582108359927529472/00aa69fdd6845d5c8f4865b336d88eef.webp?size=1024') center center no-repeat;
+    background-size: 200px;
+  }
+  
+  .cardShishcat:hover{
+      background: url('https://cdn.discordapp.com/avatars/582108359927529472/00aa69fdd6845d5c8f4865b336d88eef.webp?size=1024') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardAlessandro{
+      background: url('https://cdn.discordapp.com/attachments/858828891682504711/986228043146211328/d490d32da8899c845a21a7782ddd5172.jpg') center center no-repeat;
+      background-size: 200px;
+  }
+  
+  .cardAlessandro:hover{
+      background: url('https://cdn.discordapp.com/attachments/858828891682504711/986228043146211328/d490d32da8899c845a21a7782ddd5172.jpg') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardGiak{
+      background: url('imgs/pfpRubi.png') center center no-repeat;
+      background-size: 200px;
+  }
+  
+  .cardGiak:hover{
+      background: url('imgs/pfpRubi.png') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardFanta{
+      background: url('https://cdn.discordapp.com/avatars/290522233611354113/47a6913dbb012789d9a00d2f8a9a1976.webp?size=1024') center center no-repeat;
+      background-size: 200px;
+  }
+  
+  .cardFanta:hover{
+      background: url('https://cdn.discordapp.com/avatars/290522233611354113/47a6913dbb012789d9a00d2f8a9a1976.webp?size=1024') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardIgnax{
+      background: url('https://cdn.discordapp.com/avatars/454725944561893376/a6e49f0a3fa472f0fc1b75a664630090.webp?size=1024') center center no-repeat;
+      background-size: 200px;
+  }
+  
+  .cardIgnax:hover{
+      background: url('https://cdn.discordapp.com/avatars/454725944561893376/a6e49f0a3fa472f0fc1b75a664630090.webp?size=1024') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardMx{
+      background: url('https://cdn.discordapp.com/attachments/858828891682504711/986223775056023623/logo_squared.png') center center no-repeat;
+      background-size: 200px;
+  }
+  
+  .cardMx:hover{
+      background: url('https://cdn.discordapp.com/attachments/858828891682504711/986223775056023623/logo_squared.png') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardFab{
+      background: url('https://cdn.discordapp.com/avatars/691564968687960114/d529cbf28748cb0f821e4a81553b8f96.webp?size=1024') center center no-repeat;
+      background-size: 200px;
+  }
+  
+  .cardFab:hover{
+      background: url('https://cdn.discordapp.com/avatars/691564968687960114/d529cbf28748cb0f821e4a81553b8f96.webp?size=1024') left center no-repeat;
+      background-size: 300px;
+  }
+  
+  .cardRicky{
+      background: url('imgs/pfpRubi.png') center center no-repeat;
+      background-size: 200px;
+  }
+  
+  .cardRicky:hover{
+      background: url('imgs/pfpRubi.png') left center no-repeat;
+      background-size: 300px;
+  }
+  

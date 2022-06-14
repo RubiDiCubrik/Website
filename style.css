@@ -74,6 +74,15 @@ body{
 	border:none;
 }
 
+.divider hr {
+    box-sizing: content-box;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #f4f4f4;
+}
+
+
 /******************** WRITEUPS ****************/
 
 .writeups {
@@ -81,6 +90,88 @@ body{
     margin-bottom: 20px;
 }
 
+/******************* MEMBERS CARDS **************/
+
+.members {
+    /* height: 100vh; */
+    width: 100vw;
+
+    max-height: 800px;
+    max-width: 1212px;
+    min-height: 250px;
+    /* min-width: 1000px; */
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+
+
+}
+
+.border {
+    /* height: 242px; */
+    height: 190px;
+    width: 190px;
+    background: transparent;
+    border-radius: 10px;
+    transition: border 1s;
+    position: relative;
+
+}
+.border:hover{
+    border: 1px solid white;
+}
+
+.card{
+  /* height: 252px; */
+  height: 200px;
+  width: 200px;
+  background: grey;
+  border-radius: 10px;
+  transition: background 0.8s;
+  overflow: hidden;
+  background: black;
+  box-shadow: 0 70px 63px -60px #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.card:hover h2{
+    opacity: 1;
+}
+.card:hover .fa{
+    opacity: 1;
+}
+
+
+.members h2{
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: white;
+  margin: 20px;
+  opacity: 0;
+  transition: opacity 1s;
+}
+.members .fa{
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.icons{
+  position: absolute;
+  fill: #fff;
+  color: #fff;
+  height: 130px;
+  <div class="card cardFab">
+  top: 50px;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
 /******************** responsive ****************/
 
 /********************** DESKTOP *****************/
@@ -148,14 +239,6 @@ body{
 .footer {
     text-align: center;
     padding-bottom: 50px;
-}
-
-.divider hr {
-    box-sizing: content-box;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border: 0;
-    border-top: 1px solid #f4f4f4;
 }
 
 .footer a {
