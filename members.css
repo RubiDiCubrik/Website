@@ -62,12 +62,12 @@
   }
   
   .cardIgnax{
-      background: url('https://cdn.discordapp.com/avatars/454725944561893376/a6e49f0a3fa472f0fc1b75a664630090.webp?size=1024') center center no-repeat;
+      background: url('https://cdn.discordapp.com/avatars/454725944561893376/f9474a719fd8b7c4a3b03226b0cde1b9.webp?size=1024') center center no-repeat;
       background-size: 200px;
   }
   
   .cardIgnax:hover{
-      background: url('https://cdn.discordapp.com/avatars/454725944561893376/a6e49f0a3fa472f0fc1b75a664630090.webp?size=1024') left center no-repeat;
+      background: url('https://cdn.discordapp.com/avatars/454725944561893376/f9474a719fd8b7c4a3b03226b0cde1b9.webp?size=1024') left center no-repeat;
       background-size: 300px;
   }
   
