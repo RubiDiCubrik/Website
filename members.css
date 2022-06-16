@@ -1,12 +1,12 @@
 /** TEAM'S MEMBERS **/
 
 .cardArgh{
-    background: url('https://cdn.discordapp.com/avatars/465501045007712257/67fd06b66887805b1a80a65ff5f4a02b.webp?size=1024') center center no-repeat;
+    background: url('https://i.ibb.co/sJ93Thd/67fd06b66887805b1a80a65ff5f4a02b.webp') center center no-repeat;
     background-size: 200px;
   }
   
   .cardArgh:hover{
-      background: url('https://cdn.discordapp.com/avatars/465501045007712257/67fd06b66887805b1a80a65ff5f4a02b.webp?size=1024') left center no-repeat;
+      background: url('https://i.ibb.co/sJ93Thd/67fd06b66887805b1a80a65ff5f4a02b.webp') left center no-repeat;
       background-size: 300px;
   }
   
