@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Rubi Di Cubrik logo" src="https://i.ibb.co/7QDCxky/Final-logo.png">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Rubi Di Cubrik logo" src="https://i.postimg.cc/j5HZ7ngT/image.png">
 
 # Rubi Di Cubrik
 
